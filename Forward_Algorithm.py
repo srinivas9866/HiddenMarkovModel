@@ -1,4 +1,4 @@
-# From the Forward Algorithm we have discussed in the paper with the help of HMM and other libraries available in python.
+# From the Forward Algorithm we have discussed in the paper with the help of Numpy library available in python.
 # Now we are implementing the forward algorithm to find the probability of happening of observed sequence.
 # -*- coding: utf-8 -*-
 """
