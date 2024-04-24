@@ -2,9 +2,8 @@
 # Now we are implementing the forward algorithm to find the probability of happening of observed sequence.
 # -*- coding: utf-8 -*-
 """
-Created on Mon Apr  8 22:08:04 2024
 
-@author: Srini
+@author: Gayam Srinivasa Reddy
 """
 
 import numpy as np
